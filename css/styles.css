@@ -238,7 +238,10 @@ ul {
     background: var(--section-color);
     border-radius: 4px;
 }
-
+.features-card-icon {
+    width: 70px;
+    height: 70px;
+}
 
 
 /* What we do */
